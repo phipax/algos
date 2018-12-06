@@ -23,7 +23,9 @@ Given a list of things (numbers or words), return whether or not there are any d
 - check if the parent list still contains even one occurence of the item
 - return true if found indicating the list contain duplicates, stop the process
 - continue removing items until the parent list has none and flag there are no duplicates stop the process
-
+![Finding Duplicates](Finding Duplicates.png)
 
 
 Shuffle and Reverse Custom Algo - Refer to slay_shuffle.py
+![Shuffle](shuffle.png)
+![Reverse](Reverse.png)
