@@ -60,7 +60,6 @@ def dump_data(tag,local_array):
     strLen = '{message: >10}'.format(message=str(len(local_array)))
     msg = '{message: <10}'.format(message=tag)
     endTime = round(statistics.median(median_val))
-    # print(endTime)
     etStr = '{message: <10}'.format(message=endTime)
     dstr = msg+","+strLen+","+etStr+"\n"
     # print(dstr)
